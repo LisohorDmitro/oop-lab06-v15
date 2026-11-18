@@ -1,0 +1,16 @@
+Default constructor: 0.0000
+Parameter constructor: 1.2500
+Copy constructor: 1.2500
+Destructor check: PASS
+Arithmetic, comparisons, rounding and overflow checks: PASS
+Enter whole and fractional fields for a: Enter whole and fractional fields for b: a = 2.5000
+b = -1.2500
+a + b = 1.2500
+a - b = 3.7500
+a * b = -3.1250
+a == b: false
+a < b (less): false
+a > b (greater): true
+Stored (-1,7500) = -0.2500
+Expected error: Fraction must be 0..9999
+Self-checks: PASS
